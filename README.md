@@ -26,7 +26,7 @@
 <u>Избегаю работы на различных CMS, такие проекты не интересуют.</u>
 
 ## Контакты
-:mailbox: E-mail: artem@sokolovsky.dev, есть PGP ключ [151260753AED6840](https://github.com/c7v/c7v/blob/master/src/pgp/artem@sokolovsky.dev.asc).
+:mailbox: E-mail: artem@sokolovsky.dev, есть PGP ключ [077E0FD2A2C5DA5D](https://github.com/c7v/c7v/blob/master/pgp/077E0FD2A2C5DA5D.asc).
 
 :phone: Телефон: +7 995 499 5990
 
