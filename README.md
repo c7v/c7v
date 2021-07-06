@@ -1,5 +1,5 @@
 # Привет! :wave:
-[![VK](https://github.com/c7v/c7v/blob/master/src/img/label_vk.svg)](https://vk.com/sokolovsky.artem)
+[![VK](https://github.com/c7v/c7v/blob/master/img/label_vk.svg)](https://vk.com/sokolovsky.artem)
 
 Меня зовут Артём Соколовский, full-stack web-разработчик, индивидуальный предприниматель с 4 октября 2018, 24 года из
 Саратова. О моих услугах можете узнать на моём сайте [sokolovsky.dev](https://sokolovsky.dev/), там же почитать мои
