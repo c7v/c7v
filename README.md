@@ -25,6 +25,14 @@
 | **DB**        | MariaDB 11.5.2 |
 | **PHP**       | 7.4.33         |
 
+## Open source:
+
+Переодически делаю что-то полезное.
+
+* [c7v/esp8266-rtc-sd1302-clock-sync-ntp](https://github.com/c7v/esp8266-rtc-sd1302-clock-sync-ntp) — Часы на ESP8266 + RTC SD1302 с синхронизацией по Network Time Protocol (NTP).
+* [c7v/yii-netangels](https://github.com/c7v/yii-netangels) — Интеграция с хостинг провайдером NetAngels. **Старая работа.**
+* [c7v/dadata](https://github.com/c7v/dadata) — Интеграция с Dadata, делал для своей CRM системы.
+
 ## Контакты:
 
 :telephone_receiver: Телефон: +7 (995) 499-59-90
