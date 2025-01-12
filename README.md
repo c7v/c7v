@@ -1,6 +1,6 @@
 # Привет :wave:
 
-![Работаю на компанию](https://img.shields.io/badge/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E%20%D0%BD%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8E-FF4040)
+[![Работаю на компанию](https://img.shields.io/badge/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E%20%D0%BD%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8E-FF4040)](https://proxys.io/)
 [![Telegram](https://img.shields.io/badge/Telegram-@devSokolovsky-26A5E4?logo=telegram&logoColor=FFFFFF)](https://t.me/devSokolovsky)
 
 Меня зовут Артём, PHP Middle-разработчик и предприниматель. 
