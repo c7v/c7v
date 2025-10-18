@@ -19,6 +19,4 @@
 
 ## Контакты:
 
-:telephone_receiver: Телефон: +7 (995) 499-59-90
-
 :email: E-mail: dev.sokolovsky@mail.ru
